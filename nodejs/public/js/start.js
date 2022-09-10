@@ -3,7 +3,7 @@
 //const vConsole = new VConsole();
 //window.datgui = new dat.GUI();
 
-var base_url = "yNode.jsƒT[ƒo‚ÌURLz";
+var base_url = "ã€Node.jsã‚µãƒ¼ãƒã®URLã€‘";
 
 var vue_options = {
     el: "#top",
